@@ -3,13 +3,27 @@
     color: #D13E3E;
     border: none;
     font-family: Capriola;
+    font-size: 30px;
 }
 
 .SIGN {
     color: #FFFFFF;
     background-color: #D13E3E;
     border-radius: 20px;
+    font-size: 20px;
 }
+
+.Rs {
+    color: #FFFFFF;
+    background-color: #D13E3E;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+button{
+    font-size: 20px;
+}
+
 
 .mediumimg{
   width: 130px;
@@ -27,9 +41,10 @@
 }
 
 .graytext{
-    color: #A48888
+    color: #A48888 ;
 }
 
 .blacktext{
     color:#000000 ;
+    font-size: 80px;
 }
